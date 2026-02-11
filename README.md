@@ -3,7 +3,7 @@ End User Demo :
 ![YOLOv11 Demo Result](https://drive.google.com/uc?id=1w_zFRckzhzBmv6xWuh82-aN3Rcx6AeRJ)
 
 ## Project Overview
-This project focuses on **fine-tuning YOLOv11** for object detection tasks and implementing **MLOps** principles to streamline the model deployment and monitoring process. The goal is to create a scalable and efficient pipeline for training, fine-tuning, and deploying the YOLOv11 model in real-world applications.
+This project focuses on **fine-tuning YOLOv11** for object detection tasks and implementing **MLOps** principles to streamline the model deployment and monitoring process. The goal is to create a scalable and efficient pipeline for training, fine-tuning, and deploying the YOLOv11 model in real-world applications. (this project works with python 3.10)
 
 ## Author
 Phan Nguyễn Phan Anh ( Final year student of USTH )
