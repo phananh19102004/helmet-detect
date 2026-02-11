@@ -32,6 +32,7 @@ Dowload : https://drive.google.com/file/d/1G7W88sdRbPvUgPe6vxyKuKmJF6cleCCV/view
 - Docker Compose v2
 Build and start all services (API, MLflow, Grafana, etc.):
 ```bash
+In mlops folder :
 docker compose up -d --build
 ```
 Check running services :
