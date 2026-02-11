@@ -54,7 +54,7 @@ Below are the main training outcomes and sample predictions.
 ### Metrics
 - **Model**: YOLOv11
 - **Epochs**: 50
-- **Batch size**: 16
+- **Batch size**: 8
 - **Image size**: 640
 - **mAP@0.5**: 0.78
 - **mAP@0.5:0.95**: 0.52
